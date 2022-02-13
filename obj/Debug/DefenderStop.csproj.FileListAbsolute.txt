@@ -1,0 +1,8 @@
+C:\Users\91984\Documents\Code\DefenderStop-main\bin\Debug\DefenderStop.exe.config
+C:\Users\91984\Documents\Code\DefenderStop-main\bin\Debug\DefenderStop.exe
+C:\Users\91984\Documents\Code\DefenderStop-main\bin\Debug\DefenderStop.pdb
+C:\Users\91984\Documents\Code\DefenderStop-main\obj\Debug\DefenderStop.csproj.AssemblyReference.cache
+C:\Users\91984\Documents\Code\DefenderStop-main\obj\Debug\DefenderStop.csproj.SuggestedBindingRedirects.cache
+C:\Users\91984\Documents\Code\DefenderStop-main\obj\Debug\DefenderStop.csproj.CoreCompileInputs.cache
+C:\Users\91984\Documents\Code\DefenderStop-main\obj\Debug\DefenderStop.exe
+C:\Users\91984\Documents\Code\DefenderStop-main\obj\Debug\DefenderStop.pdb

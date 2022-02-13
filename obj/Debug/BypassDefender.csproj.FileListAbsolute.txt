@@ -1,0 +1,8 @@
+C:\Users\91984\Documents\Code\BypassDefender\bin\Debug\BypassDefender.exe.config
+C:\Users\91984\Documents\Code\BypassDefender\bin\Debug\BypassDefender.exe
+C:\Users\91984\Documents\Code\BypassDefender\bin\Debug\BypassDefender.pdb
+C:\Users\91984\Documents\Code\BypassDefender\obj\Debug\BypassDefender.csproj.AssemblyReference.cache
+C:\Users\91984\Documents\Code\BypassDefender\obj\Debug\BypassDefender.csproj.SuggestedBindingRedirects.cache
+C:\Users\91984\Documents\Code\BypassDefender\obj\Debug\BypassDefender.csproj.CoreCompileInputs.cache
+C:\Users\91984\Documents\Code\BypassDefender\obj\Debug\BypassDefender.exe
+C:\Users\91984\Documents\Code\BypassDefender\obj\Debug\BypassDefender.pdb
