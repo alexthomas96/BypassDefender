@@ -19,7 +19,7 @@ Finally it opens a service handle and attempts to kill the WinDefend service.
 From the SandboxDefender project:
 ```
 The elevated user gets a handle for various Defender processes such as MsSense, MsMpEng, MpCmdRn etc.
-Then, it obtains a token handle a disables a list of hardcoded privileges.
+Then, it obtains a token handle and disables a list of hardcoded privileges.
 Finally, the integrity of each process is also set to untrusted.
 ```
 
