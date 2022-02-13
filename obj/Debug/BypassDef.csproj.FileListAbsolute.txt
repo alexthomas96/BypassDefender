@@ -1,8 +1,0 @@
-C:\Users\91984\Documents\Code\BypassDef\bin\Debug\DefenderStop.exe.config
-C:\Users\91984\Documents\Code\BypassDef\bin\Debug\DefenderStop.exe
-C:\Users\91984\Documents\Code\BypassDef\bin\Debug\DefenderStop.pdb
-C:\Users\91984\Documents\Code\BypassDef\obj\Debug\BypassDef.csproj.AssemblyReference.cache
-C:\Users\91984\Documents\Code\BypassDef\obj\Debug\BypassDef.csproj.SuggestedBindingRedirects.cache
-C:\Users\91984\Documents\Code\BypassDef\obj\Debug\BypassDef.csproj.CoreCompileInputs.cache
-C:\Users\91984\Documents\Code\BypassDef\obj\Debug\DefenderStop.exe
-C:\Users\91984\Documents\Code\BypassDef\obj\Debug\DefenderStop.pdb

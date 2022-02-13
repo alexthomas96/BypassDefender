@@ -1,6 +1,6 @@
 ## BypassDefender
 
-This is a C# project to make the defender process untrusted, and an attempt to stop the service using via token impersonation.
+This is a C# project to make the defender process untrusted, and an attempt to stop the service using token impersonation.
 Kindly use an elevated (adminsitrator) level command utility to execute.
 
 ### Methodology
@@ -12,7 +12,8 @@ From the DefenderStop project:
 The process first steals a token from winlogon process, and uses it to impersonate SYSTEM.
 Then it spawns a TrustedInstaller process, steals that token and elevates itself again.
 It also sets SeDebugPrivilege.
-Finally it opens a service handle and attempts to kill the WinDefend service (may not always work - Access Denied error to open the service handle).
+Finally it opens a service handle and attempts to kill the WinDefend service .
+(may not always work - Access Denied error to open the service handle).
 ```
 
 From the SandboxDefender project:
