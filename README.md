@@ -34,3 +34,4 @@ The following is an illustration of the code in action.
 
 - https://github.com/dosxuz/DefenderStop
 - https://github.com/blackhatethicalhacking/SandboxDefender
+- [Skull icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/skull)
