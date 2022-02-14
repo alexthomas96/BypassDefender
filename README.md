@@ -18,7 +18,7 @@ Finally it opens a service handle and attempts to kill the WinDefend service.
 
 From the SandboxDefender project:
 ```
-The elevated user gets a handle for various Defender processes such as MsSense, MsMpEng, MpCmdRn etc.
+The elevated user gets a handle for various Defender processes such as MsSense, MsMpEng, MpCmdRun etc.
 Then, it obtains a token handle and disables a list of hardcoded privileges.
 Finally, the integrity of each process is also set to untrusted.
 ```
@@ -35,3 +35,5 @@ The following is an illustration of the code in action.
 - https://github.com/dosxuz/DefenderStop
 - https://github.com/blackhatethicalhacking/SandboxDefender
 - [Skull icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/skull)
+- [Social Preview Photo by Lina White on Unsplash](https://unsplash.com/s/photos/skull?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
