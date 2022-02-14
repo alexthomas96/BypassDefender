@@ -1,7 +1,7 @@
 ## BypassDefender
 
 This is a C# project to make the defender process untrusted, and an attempt to stop the service using token impersonation.
-Kindly use an elevated (adminsitrator) level command utility to execute.
+Kindly use an elevated (administrator) level command utility to execute.
 
 ### Methodology
 
